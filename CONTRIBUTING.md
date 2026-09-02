@@ -1,27 +1,29 @@
 # Contributing to awesome-european-dev
 
-Thank you for your interest in contributing! We welcome all contributions.
+Thank you! Contributions are welcome.
 
-## How to Contribute
+## Adding a Resource
 
-1. **Fork** this repository
-2. **Clone** your fork: git clone https://github.com/YOUR_USERNAME/awesome-european-dev.git\n3. **Create a branch**: git checkout -b feat/your-feature-name\n4. **Make your changes** and commit with a clear message
-5. **Push** to your fork: git push origin feat/your-feature-name\n6. **Open a Pull Request** against the main branch
+1. Fork this repository
+2. Add your resource under the correct section
+3. Use the format: `**[Name](url)** — Brief description.`
+4. Keep descriptions to 1 sentence
+5. Add alphabetically within sections
+6. Open a Pull Request
 
-## Good First Issues
+## Resource Guidelines
 
-Not sure where to start? Look for issues labeled [**good first issue**](https://github.com/manniche-labs/awesome-european-dev/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) — these are beginner friendly!
+- ✅ Actively maintained
+- ✅ Relevant to European developers (DE, DK, AT, Nordic...)
+- ✅ Free of affiliate links
+- ✅ Publicly accessible
+- ❌ No paywalled content without a free tier
+- ❌ No self-promotion without genuine utility
 
-## Code Style
+## Adding a New Section
 
-- Use clear, descriptive commit messages
-- Add comments for non-obvious logic
-- Keep PRs focused on a single change
-
-## Questions?
-
-Open an issue and we will get back to you as soon as possible.
+If you want to add a new section, open an issue first to discuss it.
 
 ---
 
-*manniche labs • [mikkelmanniche.dk](https://mikkelmanniche.dk)*
+*manniche labs · [mikkelmanniche.dk](https://mikkelmanniche.dk)*
