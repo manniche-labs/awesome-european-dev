@@ -10,7 +10,6 @@
 
   <br />
 
-  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
   [![Project Views](https://komarev.com/ghpvc/?username=manniche-labs-awesome-european-dev&color=2563eb&style=flat-square&label=PROJECT+VIEWS)](https://github.com/manniche-labs/awesome-european-dev)
   [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/manniche-labs/awesome-european-dev/pulls)
   [![Studio](https://img.shields.io/badge/Studio-manniche_labs-0f0f0f?style=flat-square&logo=github&logoColor=white)](https://github.com/manniche-labs)
@@ -32,9 +31,9 @@
 - [🛒 E-Commerce](#-e-commerce)
 - [📨 Email & Communication](#-email--communication)
 - [🤖 AI & Vision APIs](#-ai--vision-apis)
-- [🛠️ Developer Tools](#-developer-tools)
+- [🛠️ Developer Tools](#️-developer-tools)
 - [📚 Learning & Documentation](#-learning--documentation)
-- [🏗️ Open-Source Projects from manniche labs](#-open-source-projects-from-manniche-labs)
+- [🏗️ Open-Source Projects from manniche labs](#️-open-source-projects-from-manniche-labs)
 
 ---
 
@@ -45,12 +44,10 @@ European VAT handling is notoriously complex. These tools and resources help.
 ### Libraries
 
 - **[vatstack](https://vatstack.com)** — VAT validation and rate API for 100+ countries. Supports EU VAT, UK VAT, and live verification.
-- **[vat-rates](https://github.com/Rates-API/vat-rates)** — Simple JSON file listing current VAT rates for all EU countries.
-- **[taxes.js](https://github.com/felipeduarte/taxes.js)** — Small JS library for calculating EU VAT with historical rate support.
 
 ### Reference
 
-- **[European Commission — VAT Rates](https://taxation-customs.ec.europa.eu/taxation/vat/telecommunications-broadcasting-and-electronic-services/vat-rates_en)** — Official EU VAT rate table.
+- **[European Commission — VAT Rates](https://taxation-customs.ec.europa.eu/taxation/vat/vat-directive/vat-rates_en)** — Official EU VAT rate table.
 - **🇩🇪 German MwSt.:** Standard 19%, Reduced 7% (food, books, newspapers). Groups printed on receipts as `A` (19%) and `B` (7%).
 - **🇩🇰 Danish Moms:** Flat 25% on all goods. No reduced rate for food.
 - **🇦🇹 Austrian USt.:** Standard 20%, Reduced 10% (food, accommodation, books).
@@ -66,14 +63,14 @@ European VAT handling is notoriously complex. These tools and resources help.
 
 ### Denmark 🇩🇰
 
-- **[MobilePay for Developers](https://developer.mobilepay.dk)** — REST API docs for MobilePay, Denmark's dominant mobile payment platform (5+ million users).
+- **[Vipps MobilePay for Developers](https://developer.vippsmobilepay.com)** — REST API docs for MobilePay, Denmark's dominant mobile payment platform (5+ million users).
 - **[Quickpay](https://quickpay.net)** — Danish payment gateway with easy REST API. Supports Dankort, Visa, MasterCard, MobilePay.
-- **[NETS Easy](https://developers.nets.eu/nets-easy)** — Nordic payment platform (Dankort, MobilePay, Swish). Well-documented REST API.
+- **[Nexi Checkout (formerly Nets Easy)](https://developer.nexigroup.com/nexi-checkout/en-EU/docs/)** — Nordic payment platform (Dankort, MobilePay, Swish). Well-documented REST API.
 - **[Stripe DK](https://stripe.com/en-dk)** — Stripe in Denmark. Supports DKK and MobilePay as of 2024.
 
 ### Germany 🇩🇪
 
-- **[Stripe DE](https://stripe.com/de)** — Full German localization with SEPA, Sofort, GiroPay, and Klarna support.
+- **[Stripe DE](https://stripe.com/de)** — Full German localization with SEPA and Klarna support.
 - **[Mollie](https://www.mollie.com/de)** — Popular European PSP with excellent DACH coverage. iDEAL, SEPA, Klarna.
 - **[PayPal Germany Docs](https://developer.paypal.com)** — Strong market penetration in DE. REST + SDK docs.
 - **[Unzer (formerly Heidelpay)](https://www.unzer.com)** — German payment gateway with SEPA Direct Debit and installment support.
@@ -91,7 +88,8 @@ European VAT handling is notoriously complex. These tools and resources help.
 
 - **[Simply.com](https://simply.com)** — Popular Danish shared hosting. Apache 2.4, PHP, MySQL, FTPS, cPanel. Used by many SMBs.
 - **[one.com](https://one.com)** — Pan-European hosting. Good for WordPress + WooCommerce.
-- **[DK Hostmaster](https://www.dk-hostmaster.dk/en)** — Official .dk domain registry.
+- **[e-studio.dk](https://www.e-studio.dk)** — Danish e-commerce hosting specialists.
+- **[Punktum dk (formerly DK Hostmaster)](https://punktum.dk/en)** — Official .dk domain registry.
 
 ### German Hosting 🇩🇪
 
@@ -99,7 +97,6 @@ European VAT handling is notoriously complex. These tools and resources help.
 - **[Hetzner](https://www.hetzner.com)** — Excellent price/performance VPS and dedicated servers. Extremely popular in the DE dev community.
 - **[Strato](https://www.strato.de)** — German hosting with strong WordPress and e-commerce focus.
 - **[netcup](https://www.netcup.de)** — Budget VPS with German data centers. Huge community.
-- **[e-studio.dk](https://www.e-studio.dk)** — Danish e-commerce hosting specialists.
 
 ### DNS & CDN
 
@@ -133,7 +130,6 @@ European VAT handling is notoriously complex. These tools and resources help.
 
 ### Tools
 
-- **[Slimpack for WooCommerce](https://slimpack.io)** — Lightweight WooCommerce performance toolkit.
 - **[WP Rocket](https://wp-rocket.me)** — Cache & performance plugin used widely with Danish/German WooCommerce stores.
 
 ---
@@ -143,7 +139,7 @@ European VAT handling is notoriously complex. These tools and resources help.
 - **[Mailchimp](https://mailchimp.com)** — Email marketing. Well-integrated with WooCommerce and Shopify.
 - **[HubSpot](https://www.hubspot.com)** — CRM + email marketing + lead capture. Widely used by European agencies.
 - **[Resend](https://resend.com)** — Developer-focused transactional email API. Modern alternative to SendGrid.
-- **[Brevo (formerly Sendinblue)](https://brevo.com)** — European email platform. GDPR-compliant, EU data centers.
+- **[Brevo (formerly Sendinblue)](https://www.brevo.com)** — European email platform. GDPR-compliant, EU data centers.
 
 ---
 
@@ -152,13 +148,13 @@ European VAT handling is notoriously complex. These tools and resources help.
 - **[Google Gemini Vision](https://ai.google.dev)** — Best-in-class document and receipt understanding. Powers `receipt-scanner-core`.
 - **[OpenAI GPT-4o Vision](https://platform.openai.com)** — Strong general-purpose vision with JSON output mode. Great for receipt extraction.
 - **[Anthropic Claude](https://www.anthropic.com)** — Excellent at structured extraction from complex document images.
-- **[receipt-scanner-core](https://github.com/manniche-labs/receipt-scanner-core)** — TypeScript lib wrapping production-tested prompts for DE/DK receipt parsing.
+- **[receipt-scanner-core](https://github.com/manniche-labs/receipt-scanner-core)** — TypeScript lib with Vision AI prompts for DE/DK receipt parsing.
 
 ---
 
 ## 🛠️ Developer Tools
 
-- **[Antigravity IDE](https://antigravity.dev)** — AI-powered coding assistant with multi-step agentic capabilities.
+- **[Antigravity IDE](https://antigravity.google)** — AI-powered coding assistant with multi-step agentic capabilities.
 - **[CodeRabbit](https://coderabbit.ai)** — AI-powered code review. Integrates directly with GitHub PRs.
 - **[Vercel](https://vercel.com)** — Best deployment platform for Next.js. Instant previews, Edge Functions.
 - **[Bruno](https://www.usebruno.com)** — Open-source Postman alternative. API testing with offline-first design.
@@ -183,7 +179,7 @@ Projects built for and by European developers:
 | :--- | :--- |
 | **[receipt-scanner-core](https://github.com/manniche-labs/receipt-scanner-core)** | 🧾 European receipt parsing — TypeScript schemas, Vision AI prompts, DE/DK normalization |
 | **[next-enterprise-starter](https://github.com/manniche-labs/next-enterprise-starter)** | ⚡ Next.js 16 + React 19 + Tailwind CSS 4 production starter |
-| **[apache-spa-security-hardening](https://github.com/manniche-labs/apache-spa-security-hardening)** | 🛡️ OWASP A+ Apache `.htaccess` security template for SPAs |
+| **[apache-spa-security-hardening](https://github.com/manniche-labs/apache-spa-security-hardening)** | 🛡️ Hardened Apache `.htaccess` security template for SPAs |
 
 ---
 
