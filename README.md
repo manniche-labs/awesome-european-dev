@@ -47,6 +47,7 @@ European VAT handling is notoriously complex. These tools and resources help.
 
 ### Reference
 
+- **[EU e-invoicing compliance timeline](https://peppol-invoice-compass.lovable.app/compliance-timeline)** — B2B and B2G e-invoicing status, dates, formats and networks for the EU-27, UK, Norway and Switzerland, each row with an official source ([CSV](https://peppol-invoice-compass.lovable.app/compliance-timeline.csv)).
 - **[European Commission — VAT Rates](https://taxation-customs.ec.europa.eu/taxation/vat/vat-directive/vat-rates_en)** — Official EU VAT rate table.
 - **🇩🇪 German MwSt.:** Standard 19%, Reduced 7% (food, books, newspapers). Groups printed on receipts as `A` (19%) and `B` (7%).
 - **🇩🇰 Danish Moms:** Flat 25% on all goods. No reduced rate for food.
